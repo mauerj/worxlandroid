@@ -34,7 +34,7 @@ public class OauthTokenRequest extends WebApiRequest<OauthTokenResponse> {
 
     private static final String CONTENT_PROVIDER = "application/json";
     private static final String CLIENT_ID = "013132A8-DB34-4101-B993-3C8348EA0EBC";
-    private static final String APIURL_OAUTH_TOKEN = "https://id.eu.worx.com/" + "oauth/token";
+    private static final String APIURL_OAUTH_TOKEN = "https://id.worx.com/" + "oauth/token";
 
     /**
      * @param httpClient
